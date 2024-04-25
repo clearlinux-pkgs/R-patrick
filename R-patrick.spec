@@ -7,7 +7,7 @@
 #
 Name     : R-patrick
 Version  : 0.2.0
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/patrick_0.2.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/patrick_0.2.0.tar.gz
 Summary  : Parameterized Unit Testing
